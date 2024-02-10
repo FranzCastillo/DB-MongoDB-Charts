@@ -1,8 +1,9 @@
 from src.connections.atlas import AtlasConnection
+import pandas as pd
 
 
 def main():
-    atlas = AtlasConnection()
+    pass
 
 
 if __name__ == "__main__":

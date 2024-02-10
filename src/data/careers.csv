@@ -1,0 +1,49 @@
+_id,faculty_id,name
+1,1,Biomédica
+2,1,Biotecnología Industrial
+3,1,Ciencias de Alimentos
+4,1,Ciencias de Alimentos Industrial
+5,1,Ciencia de la Administración
+6,1,Ciencia de los Datos
+7,1,Civil
+8,1,Civil Ambiental
+9,1,Civil Arquitectónica
+10,1,Civil Industrial
+11,1,Ciencia de la Computación y Tecnologías de la Información
+12,1,Electrónica
+13,1,Industrial
+14,1,Mecánica
+15,1,Mecánica Industrial
+16,1,Mecatrónica
+17,1,Ingeniería Química
+18,1,Química Industrial
+19,2,Antropología
+20,2,Arquelogía
+21,2,Psicología
+22,2,Relaciones Internacionales & Master of Arts in Global Affairs
+23,3,Biología
+24,3,Bioquímica y Microbiología
+25,3,Biotecnología Molecular
+26,3,Comunicación Estratégica
+27,3,Física
+28,3,Matemática Aplicada
+29,3,Nutrición
+30,3,Química
+31,3,Química Farmacéutica
+32,4,Educación Musical
+33,4,Educaión Primaria
+34,4,English Language Teaching
+35,4,Educación Inclusiva
+36,4,Ciencias Químicas y Biológicas
+37,4,Matemática y Ciencias Físicas
+38,4,Comunicación y Lenguaje
+39,4,Ciencias Sociales
+40,4,Problemas de Aprendizaje
+41,5,Composición y Producción Musical
+42,5,Diseño de Producto e Innovación
+43,6,Administración de Empresas con Especialización en Transformación Digital
+44,6,Administración de Empresas con Especialización en Negocios de Alimentos
+45,6,International Marketing and Business Analytics
+46,7,Baccalaureatus en Artibus
+47,7,Baccalaureatus en Scientiis
+48,8,Arquitectura
