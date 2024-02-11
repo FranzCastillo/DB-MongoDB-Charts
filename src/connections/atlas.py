@@ -12,10 +12,20 @@ class AtlasConnection:
         uri_template = secrets['URI']
         uri = uri_template.replace('<username>', username).replace('<password>', password)
 
-        self.client = MongoClient(uri, server_api=ServerApi('1'))
+        self.client = MongoClient(uri)
+        self.db = self.client.Intercambios
+
+    def ping(self):
         # Send a ping to confirm a successful connection
         try:
             self.client.admin.command('ping')
             print("Pinged your deployment. You successfully connected to MongoDB!")
+        except Exception as e:
+            print(e)
+
+    def create_collection(self, collection_name='default'):
+        try:
+            self.db.create_collection(collection_name)
+            print(f"Collection '{collection_name}' created successfully!")
         except Exception as e:
             print(e)
