@@ -29,3 +29,18 @@ class AtlasConnection:
             print(f"Collection '{collection_name}' created successfully!")
         except Exception as e:
             print(e)
+
+    def insert_many(self, collection_name, documents):
+        try:
+            self.db[collection_name].insert_many(documents, ordered=False)
+            print(f"Documents inserted into '{collection_name}' successfully!")
+        except Exception as e:
+            print(e)
+
+    def truncate_collection(self, collection_name):
+        try:
+            self.db[collection_name].drop()
+            self.db.create_collection(collection_name)
+            print(f"Collection '{collection_name}' truncated successfully!")
+        except Exception as e:
+            print(e)

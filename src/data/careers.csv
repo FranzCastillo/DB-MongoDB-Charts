@@ -1,49 +1,49 @@
-_id,faculty_id,name
-1,1,Biomédica
-2,1,Biotecnología Industrial
-3,1,Ciencias de Alimentos
-4,1,Ciencias de Alimentos Industrial
-5,1,Ciencia de la Administración
-6,1,Ciencia de los Datos
-7,1,Civil
-8,1,Civil Ambiental
-9,1,Civil Arquitectónica
-10,1,Civil Industrial
-11,1,Ciencia de la Computación y Tecnologías de la Información
-12,1,Electrónica
-13,1,Industrial
-14,1,Mecánica
-15,1,Mecánica Industrial
-16,1,Mecatrónica
-17,1,Ingeniería Química
-18,1,Química Industrial
-19,2,Antropología
-20,2,Arquelogía
-21,2,Psicología
-22,2,Relaciones Internacionales & Master of Arts in Global Affairs
-23,3,Biología
-24,3,Bioquímica y Microbiología
-25,3,Biotecnología Molecular
-26,3,Comunicación Estratégica
-27,3,Física
-28,3,Matemática Aplicada
-29,3,Nutrición
-30,3,Química
-31,3,Química Farmacéutica
-32,4,Educación Musical
-33,4,Educaión Primaria
-34,4,English Language Teaching
-35,4,Educación Inclusiva
-36,4,Ciencias Químicas y Biológicas
-37,4,Matemática y Ciencias Físicas
-38,4,Comunicación y Lenguaje
-39,4,Ciencias Sociales
-40,4,Problemas de Aprendizaje
-41,5,Composición y Producción Musical
-42,5,Diseño de Producto e Innovación
-43,6,Administración de Empresas con Especialización en Transformación Digital
-44,6,Administración de Empresas con Especialización en Negocios de Alimentos
-45,6,International Marketing and Business Analytics
-46,7,Baccalaureatus en Artibus
-47,7,Baccalaureatus en Scientiis
-48,8,Arquitectura
+_id,name,faculty_id,faculty_name,faculty_short_name
+1,Biomédica,1,Ingeniería,ING
+2,Biotecnología Industrial,1,Ingeniería,ING
+3,Ciencias de Alimentos,1,Ingeniería,ING
+4,Ciencias de Alimentos Industrial,1,Ingeniería,ING
+5,Ciencia de la Administración,1,Ingeniería,ING
+6,Ciencia de los Datos,1,Ingeniería,ING
+7,Civil,1,Ingeniería,ING
+8,Civil Ambiental,1,Ingeniería,ING
+9,Civil Arquitectónica,1,Ingeniería,ING
+10,Civil Industrial,1,Ingeniería,ING
+11,Ciencia de la Computación y Tecnologías de la Información,1,Ingeniería,ING
+12,Electrónica,1,Ingeniería,ING
+13,Industrial,1,Ingeniería,ING
+14,Mecánica,1,Ingeniería,ING
+15,Mecánica Industrial,1,Ingeniería,ING
+16,Mecatrónica,1,Ingeniería,ING
+17,Ingeniería Química,1,Ingeniería,ING
+18,Química Industrial,1,Ingeniería,ING
+19,Antropología,2,Ciencias Sociales,CCSS
+20,Arquelogía,2,Ciencias Sociales,CCSS
+21,Psicología,2,Ciencias Sociales,CCSS
+22,Relaciones Internacionales & Master of Arts in Global Affairs,2,Ciencias Sociales,CCSS
+23,Biología,3,Ciencias y Humanidades,CCHH
+24,Bioquímica y Microbiología,3,Ciencias y Humanidades,CCHH
+25,Biotecnología Molecular,3,Ciencias y Humanidades,CCHH
+26,Comunicación Estratégica,3,Ciencias y Humanidades,CCHH
+27,Física,3,Ciencias y Humanidades,CCHH
+28,Matemática Aplicada,3,Ciencias y Humanidades,CCHH
+29,Nutrición,3,Ciencias y Humanidades,CCHH
+30,Química,3,Ciencias y Humanidades,CCHH
+31,Química Farmacéutica,3,Ciencias y Humanidades,CCHH
+32,Educación Musical,4,Educación,EDU
+33,Educaión Primaria,4,Educación,EDU
+34,English Language Teaching,4,Educación,EDU
+35,Educación Inclusiva,4,Educación,EDU
+36,Ciencias Químicas y Biológicas,4,Educación,EDU
+37,Matemática y Ciencias Físicas,4,Educación,EDU
+38,Comunicación y Lenguaje,4,Educación,EDU
+39,Ciencias Sociales,4,Educación,EDU
+40,Problemas de Aprendizaje,4,Educación,EDU
+41,Composición y Producción Musical,5,Design Innovation & Arts School,DI&A
+42,Diseño de Producto e Innovación,5,Design Innovation & Arts School,DI&A
+43,Administración de Empresas con Especialización en Transformación Digital,6,Business and Management School,BMS
+44,Administración de Empresas con Especialización en Negocios de Alimentos,6,Business and Management School,BMS
+45,International Marketing and Business Analytics,6,Business and Management School,BMS
+46,Baccalaureatus en Artibus,7,Colegio Universitario,CUAE
+47,Baccalaureatus en Scientiis,7,Colegio Universitario,CUAE
+48,Arquitectura,8,Arquitectura,ARQ

@@ -1,250 +1,250 @@
-_id,continent_id,name,iso3
-1,2,Argelia,DZA
-5,2,Sudán,SDN
-6,2,Túnez,TUN
-7,2,Sáhara Occidental,ESH
-8,2,Territorio Británico del Océano Índico,IOT
-9,2,Burundi,BDI
-10,2,Comoras,COM
-11,2,Djibouti,DJI
-12,2,Eritrea,ERI
-13,2,Etiopía,ETH
-14,2,Territorio de las Tierras Australes Francesas,ATF
-15,2,Kenya,KEN
-16,2,Madagascar,MDG
-17,2,Malawi,MWI
-18,2,Mauricio,MUS
-19,2,Mayotte,MYT
-20,2,Mozambique,MOZ
-21,2,Reunión,REU
-22,2,Rwanda,RWA
-23,2,Seychelles,SYC
-24,2,Somalia,SOM
-25,2,Sudán del Sur,SSD
-26,2,Uganda,UGA
-27,2,República Unida de Tanzanía,TZA
-28,2,Zambia,ZMB
-29,2,Zimbabwe,ZWE
-30,2,Angola,AGO
-31,2,Camerún,CMR
-32,2,República Centroafricana,CAF
-33,2,Chad,TCD
-34,2,Congo,COG
-35,2,República Democrática del Congo,COD
-36,2,Guinea Ecuatorial,GNQ
-37,2,Gabón,GAB
-38,2,Santo Tomé y Príncipe,STP
-39,2,Botswana,BWA
-40,2,Eswatini,SWZ
-41,2,Lesotho,LSO
-42,2,Namibia,NAM
-43,2,Sudáfrica,ZAF
-44,2,Benin,BEN
-45,2,Burkina Faso,BFA
-46,2,Cabo Verde,CPV
-47,2,Côte d’Ivoire,CIV
-48,2,Gambia,GMB
-49,2,Ghana,GHA
-50,2,Guinea,GIN
-51,2,Guinea-Bissau,GNB
-52,2,Liberia,LBR
-53,2,Malí,MLI
-54,2,Mauritania,MRT
-55,2,Níger,NER
-56,2,Nigeria,NGA
-57,2,Santa Elena,SHN
-58,2,Senegal,SEN
-59,2,Sierra Leona,SLE
-60,2,Togo,TGO
-61,3,Anguila,AIA
-62,3,Antigua y Barbuda,ATG
-63,3,Aruba,ABW
-64,3,Bahamas,BHS
-65,3,Barbados,BRB
-66,3,"Bonaire, San Eustaquio y Saba",BES
-67,3,Islas Vírgenes Británicas,VGB
-68,3,Islas Caimán,CYM
-69,3,Cuba,CUB
-70,3,Curazao,CUW
-71,3,Dominica,DMA
-72,3,República Dominicana,DOM
-73,3,Granada,GRD
-74,3,Guadalupe,GLP
-75,3,Haití,HTI
-76,3,Jamaica,JAM
-77,3,Martinica,MTQ
-78,3,Montserrat,MSR
-79,3,Puerto Rico,PRI
-80,3,San Barthélemy,BLM
-81,3,Saint Kitts y Nevis,KNA
-82,3,Santa Lucía,LCA
-83,3,San Martín (parte francesa),MAF
-84,3,San Vicente y las Granadinas,VCT
-85,3,San Martín (parte Holandesa),SXM
-86,3,Trinidad y Tabago,TTO
-87,3,Islas Turcas y Caicos,TCA
-88,3,Islas Vírgenes de los Estados Unidos,VIR
-89,3,Belice,BLZ
-90,3,Costa Rica,CRI
-91,3,El Salvador,SLV
-92,3,Guatemala,GTM
-93,3,Honduras,HND
-94,3,México,MEX
-95,3,Nicaragua,NIC
-96,3,Panamá,PAN
-97,3,Argentina,ARG
-98,3,Bolivia (Estado Plurinacional de),BOL
-99,3,Isla Bouvet,BVT
-100,3,Brasil,BRA
-101,3,Chile,CHL
-102,3,Colombia,COL
-103,3,Ecuador,ECU
-104,3,Islas Malvinas (Falkland),FLK
-105,3,Guayana Francesa,GUF
-106,3,Guyana,GUY
-107,3,Paraguay,PRY
-108,3,Perú,PER
-109,3,Georgia del Sur y las Islas Sandwich del Sur,SGS
-110,3,Suriname,SUR
-111,3,Uruguay,URY
-112,3,Venezuela (República Bolivariana de),VEN
-2,2,Egipto,EGY
-3,2,Libia,LBY
-4,2,Marruecos,MAR
-113,3,Bermuda,BMU
-114,3,Canadá,CAN
-115,3,Groenlandia,GRL
-116,3,San Pedro y Miquelón,SPM
-117,3,Estados Unidos de América,USA
-118,7,Antártida,ATA
-119,1,Kazajstán,KAZ
-120,1,Kirguistán,KGZ
-121,1,Tayikistán,TJK
-122,1,Turkmenistán,TKM
-123,1,Uzbekistán,UZB
-124,1,China,CHN
-125,1,"China, región administrativa especial de Hong Kong",HKG
-126,1,"China, región administrativa especial de Macao",MAC
-127,1,República Popular Democrática de Corea,PRK
-128,1,Japón,JPN
-129,1,Mongolia,MNG
-130,1,República de Corea,KOR
-131,1,Brunei Darussalam,BRN
-132,1,Camboya,KHM
-133,1,Indonesia,IDN
-134,1,República Democrática Popular Lao,LAO
-135,1,Malasia,MYS
-136,1,Myanmar,MMR
-137,1,Filipinas,PHL
-138,1,Singapur,SGP
-139,1,Tailandia,THA
-140,1,Timor-Leste,TLS
-141,1,Viet Nam,VNM
-142,1,Afganistán,AFG
-143,1,Bangladesh,BGD
-144,1,Bhután,BTN
-145,1,India,IND
-146,1,Irán (República Islámica del),IRN
-147,1,Maldivas,MDV
-148,1,Nepal,NPL
-149,1,Pakistán,PAK
-150,1,Sri Lanka,LKA
-151,1,Armenia,ARM
-152,1,Azerbaiyán,AZE
-153,1,Bahrein,BHR
-154,1,Chipre,CYP
-155,1,Georgia,GEO
-156,1,Iraq,IRQ
-157,1,Israel,ISR
-158,1,Jordania,JOR
-159,1,Kuwait,KWT
-160,1,Líbano,LBN
-161,1,Omán,OMN
-162,1,Qatar,QAT
-163,1,Arabia Saudita,SAU
-164,1,Estado de Palestina,PSE
-165,1,República Árabe Siria,SYR
-166,1,Türkiye,TUR
-167,1,Emiratos Árabes Unidos,ARE
-168,1,Yemen,YEM
-169,5,Belarús,BLR
-170,5,Bulgaria,BGR
-171,5,Chequia,CZE
-172,5,Hungría,HUN
-173,5,Polonia,POL
-174,5,República de Moldova,MDA
-175,5,Rumania,ROU
-176,5,Federación de Rusia,RUS
-177,5,Eslovaquia,SVK
-178,5,Ucrania,UKR
-179,5,Islas Åland,ALA
-180,5,Guernsey,GGY
-181,5,Jersey,JEY
-182,5,Sark,
-183,5,Dinamarca,DNK
-184,5,Estonia,EST
-185,5,Islas Feroe,FRO
-186,5,Finlandia,FIN
-187,5,Islandia,ISL
-188,5,Irlanda,IRL
-189,5,Isla de Man,IMN
-190,5,Letonia,LVA
-191,5,Lituania,LTU
-192,5,Noruega,NOR
-193,5,Islas Svalbard y Jan Mayen,SJM
-194,5,Suecia,SWE
-196,5,Albania,ALB
-197,5,Andorra,AND
-198,5,Bosnia y Herzegovina,BIH
-199,5,Croacia,HRV
-200,5,Gibraltar,GIB
-201,5,Grecia,GRC
-202,5,Santa Sede,VAT
-203,5,Italia,ITA
-204,5,Malta,MLT
-205,5,Montenegro,MNE
-206,5,Macedonia del Norte,MKD
-207,5,Portugal,PRT
-208,5,San Marino,SMR
-209,5,Serbia,SRB
-210,5,Eslovenia,SVN
-211,5,España,ESP
-212,5,Austria,AUT
-213,5,Bélgica,BEL
-214,5,Francia,FRA
-215,5,Alemania,DEU
-216,5,Liechtenstein,LIE
-217,5,Luxemburgo,LUX
-218,5,Mónaco,MCO
-220,5,Suiza,CHE
-219,5,Países Bajos,NLD
-195,5,Reino Unido,GBR
-221,6,Australia,AUS
-222,6,Isla Christmas,CXR
-223,6,Islas Cocos (Keeling),CCK
-224,6,Islas Heard y McDonald,HMD
-225,6,Nueva Zelandia,NZL
-226,6,Isla Norfolk,NFK
-227,6,Fiji,FJI
-228,6,Nueva Caledonia,NCL
-229,6,Papua Nueva Guinea,PNG
-230,6,Islas Salomón,SLB
-231,6,Vanuatu,VUT
-232,6,Guam,GUM
-233,6,Kiribati,KIR
-234,6,Islas Marshall,MHL
-235,6,Micronesia (Estados Federados de),FSM
-236,6,Nauru,NRU
-237,6,Islas Marianas Septentrionales,MNP
-238,6,Palau,PLW
-239,6,Islas menores alejadas de Estados Unidos,UMI
-240,6,Samoa Americana,ASM
-241,6,Islas Cook,COK
-242,6,Polinesia Francesa,PYF
-243,6,Niue,NIU
-244,6,Pitcairn,PCN
-245,6,Samoa,WSM
-246,6,Tokelau,TKL
-247,6,Tonga,TON
-248,6,Tuvalu,TUV
-249,6,Islas Wallis y Futuna,WLF
+_id,countryName,countryIso3,continent_id,continentName
+1,Argelia,DZA,2,África
+5,Sudán,SDN,2,África
+6,Túnez,TUN,2,África
+7,Sáhara Occidental,ESH,2,África
+8,Territorio Británico del Océano Índico,IOT,2,África
+9,Burundi,BDI,2,África
+10,Comoras,COM,2,África
+11,Djibouti,DJI,2,África
+12,Eritrea,ERI,2,África
+13,Etiopía,ETH,2,África
+14,Territorio de las Tierras Australes Francesas,ATF,2,África
+15,Kenya,KEN,2,África
+16,Madagascar,MDG,2,África
+17,Malawi,MWI,2,África
+18,Mauricio,MUS,2,África
+19,Mayotte,MYT,2,África
+20,Mozambique,MOZ,2,África
+21,Reunión,REU,2,África
+22,Rwanda,RWA,2,África
+23,Seychelles,SYC,2,África
+24,Somalia,SOM,2,África
+25,Sudán del Sur,SSD,2,África
+26,Uganda,UGA,2,África
+27,República Unida de Tanzanía,TZA,2,África
+28,Zambia,ZMB,2,África
+29,Zimbabwe,ZWE,2,África
+30,Angola,AGO,2,África
+31,Camerún,CMR,2,África
+32,República Centroafricana,CAF,2,África
+33,Chad,TCD,2,África
+34,Congo,COG,2,África
+35,República Democrática del Congo,COD,2,África
+36,Guinea Ecuatorial,GNQ,2,África
+37,Gabón,GAB,2,África
+38,Santo Tomé y Príncipe,STP,2,África
+39,Botswana,BWA,2,África
+40,Eswatini,SWZ,2,África
+41,Lesotho,LSO,2,África
+42,Namibia,NAM,2,África
+43,Sudáfrica,ZAF,2,África
+44,Benin,BEN,2,África
+45,Burkina Faso,BFA,2,África
+46,Cabo Verde,CPV,2,África
+47,Côte d’Ivoire,CIV,2,África
+48,Gambia,GMB,2,África
+49,Ghana,GHA,2,África
+50,Guinea,GIN,2,África
+51,Guinea-Bissau,GNB,2,África
+52,Liberia,LBR,2,África
+53,Malí,MLI,2,África
+54,Mauritania,MRT,2,África
+55,Níger,NER,2,África
+56,Nigeria,NGA,2,África
+57,Santa Elena,SHN,2,África
+58,Senegal,SEN,2,África
+59,Sierra Leona,SLE,2,África
+60,Togo,TGO,2,África
+61,Anguila,AIA,3,Américas
+62,Antigua y Barbuda,ATG,3,Américas
+63,Aruba,ABW,3,Américas
+64,Bahamas,BHS,3,Américas
+65,Barbados,BRB,3,Américas
+66,"Bonaire, San Eustaquio y Saba",BES,3,Américas
+67,Islas Vírgenes Británicas,VGB,3,Américas
+68,Islas Caimán,CYM,3,Américas
+69,Cuba,CUB,3,Américas
+70,Curazao,CUW,3,Américas
+71,Dominica,DMA,3,Américas
+72,República Dominicana,DOM,3,Américas
+73,Granada,GRD,3,Américas
+74,Guadalupe,GLP,3,Américas
+75,Haití,HTI,3,Américas
+76,Jamaica,JAM,3,Américas
+77,Martinica,MTQ,3,Américas
+78,Montserrat,MSR,3,Américas
+79,Puerto Rico,PRI,3,Américas
+80,San Barthélemy,BLM,3,Américas
+81,Saint Kitts y Nevis,KNA,3,Américas
+82,Santa Lucía,LCA,3,Américas
+83,San Martín (parte francesa),MAF,3,Américas
+84,San Vicente y las Granadinas,VCT,3,Américas
+85,San Martín (parte Holandesa),SXM,3,Américas
+86,Trinidad y Tabago,TTO,3,Américas
+87,Islas Turcas y Caicos,TCA,3,Américas
+88,Islas Vírgenes de los Estados Unidos,VIR,3,Américas
+89,Belice,BLZ,3,Américas
+90,Costa Rica,CRI,3,Américas
+91,El Salvador,SLV,3,Américas
+92,Guatemala,GTM,3,Américas
+93,Honduras,HND,3,Américas
+94,México,MEX,3,Américas
+95,Nicaragua,NIC,3,Américas
+96,Panamá,PAN,3,Américas
+97,Argentina,ARG,3,Américas
+98,Bolivia (Estado Plurinacional de),BOL,3,Américas
+99,Isla Bouvet,BVT,3,Américas
+100,Brasil,BRA,3,Américas
+101,Chile,CHL,3,Américas
+102,Colombia,COL,3,Américas
+103,Ecuador,ECU,3,Américas
+104,Islas Malvinas (Falkland),FLK,3,Américas
+105,Guayana Francesa,GUF,3,Américas
+106,Guyana,GUY,3,Américas
+107,Paraguay,PRY,3,Américas
+108,Perú,PER,3,Américas
+109,Georgia del Sur y las Islas Sandwich del Sur,SGS,3,Américas
+110,Suriname,SUR,3,Américas
+111,Uruguay,URY,3,Américas
+112,Venezuela (República Bolivariana de),VEN,3,Américas
+2,Egipto,EGY,2,África
+3,Libia,LBY,2,África
+4,Marruecos,MAR,2,África
+113,Bermuda,BMU,3,Américas
+114,Canadá,CAN,3,Américas
+115,Groenlandia,GRL,3,Américas
+116,San Pedro y Miquelón,SPM,3,Américas
+117,Estados Unidos de América,USA,3,Américas
+118,Antártida,ATA,7,Antártida
+119,Kazajstán,KAZ,1,Asia
+120,Kirguistán,KGZ,1,Asia
+121,Tayikistán,TJK,1,Asia
+122,Turkmenistán,TKM,1,Asia
+123,Uzbekistán,UZB,1,Asia
+124,China,CHN,1,Asia
+125,"China, región administrativa especial de Hong Kong",HKG,1,Asia
+126,"China, región administrativa especial de Macao",MAC,1,Asia
+127,República Popular Democrática de Corea,PRK,1,Asia
+128,Japón,JPN,1,Asia
+129,Mongolia,MNG,1,Asia
+130,República de Corea,KOR,1,Asia
+131,Brunei Darussalam,BRN,1,Asia
+132,Camboya,KHM,1,Asia
+133,Indonesia,IDN,1,Asia
+134,República Democrática Popular Lao,LAO,1,Asia
+135,Malasia,MYS,1,Asia
+136,Myanmar,MMR,1,Asia
+137,Filipinas,PHL,1,Asia
+138,Singapur,SGP,1,Asia
+139,Tailandia,THA,1,Asia
+140,Timor-Leste,TLS,1,Asia
+141,Viet Nam,VNM,1,Asia
+142,Afganistán,AFG,1,Asia
+143,Bangladesh,BGD,1,Asia
+144,Bhután,BTN,1,Asia
+145,India,IND,1,Asia
+146,Irán (República Islámica del),IRN,1,Asia
+147,Maldivas,MDV,1,Asia
+148,Nepal,NPL,1,Asia
+149,Pakistán,PAK,1,Asia
+150,Sri Lanka,LKA,1,Asia
+151,Armenia,ARM,1,Asia
+152,Azerbaiyán,AZE,1,Asia
+153,Bahrein,BHR,1,Asia
+154,Chipre,CYP,1,Asia
+155,Georgia,GEO,1,Asia
+156,Iraq,IRQ,1,Asia
+157,Israel,ISR,1,Asia
+158,Jordania,JOR,1,Asia
+159,Kuwait,KWT,1,Asia
+160,Líbano,LBN,1,Asia
+161,Omán,OMN,1,Asia
+162,Qatar,QAT,1,Asia
+163,Arabia Saudita,SAU,1,Asia
+164,Estado de Palestina,PSE,1,Asia
+165,República Árabe Siria,SYR,1,Asia
+166,Türkiye,TUR,1,Asia
+167,Emiratos Árabes Unidos,ARE,1,Asia
+168,Yemen,YEM,1,Asia
+169,Belarús,BLR,5,Europa
+170,Bulgaria,BGR,5,Europa
+171,Chequia,CZE,5,Europa
+172,Hungría,HUN,5,Europa
+173,Polonia,POL,5,Europa
+174,República de Moldova,MDA,5,Europa
+175,Rumania,ROU,5,Europa
+176,Federación de Rusia,RUS,5,Europa
+177,Eslovaquia,SVK,5,Europa
+178,Ucrania,UKR,5,Europa
+179,Islas Åland,ALA,5,Europa
+180,Guernsey,GGY,5,Europa
+181,Jersey,JEY,5,Europa
+182,Sark,,5,Europa
+183,Dinamarca,DNK,5,Europa
+184,Estonia,EST,5,Europa
+185,Islas Feroe,FRO,5,Europa
+186,Finlandia,FIN,5,Europa
+187,Islandia,ISL,5,Europa
+188,Irlanda,IRL,5,Europa
+189,Isla de Man,IMN,5,Europa
+190,Letonia,LVA,5,Europa
+191,Lituania,LTU,5,Europa
+192,Noruega,NOR,5,Europa
+193,Islas Svalbard y Jan Mayen,SJM,5,Europa
+194,Suecia,SWE,5,Europa
+196,Albania,ALB,5,Europa
+197,Andorra,AND,5,Europa
+198,Bosnia y Herzegovina,BIH,5,Europa
+199,Croacia,HRV,5,Europa
+200,Gibraltar,GIB,5,Europa
+201,Grecia,GRC,5,Europa
+202,Santa Sede,VAT,5,Europa
+203,Italia,ITA,5,Europa
+204,Malta,MLT,5,Europa
+205,Montenegro,MNE,5,Europa
+206,Macedonia del Norte,MKD,5,Europa
+207,Portugal,PRT,5,Europa
+208,San Marino,SMR,5,Europa
+209,Serbia,SRB,5,Europa
+210,Eslovenia,SVN,5,Europa
+211,España,ESP,5,Europa
+212,Austria,AUT,5,Europa
+213,Bélgica,BEL,5,Europa
+214,Francia,FRA,5,Europa
+215,Alemania,DEU,5,Europa
+216,Liechtenstein,LIE,5,Europa
+217,Luxemburgo,LUX,5,Europa
+218,Mónaco,MCO,5,Europa
+220,Suiza,CHE,5,Europa
+219,Países Bajos,NLD,5,Europa
+195,Reino Unido,GBR,5,Europa
+221,Australia,AUS,6,Oceanía
+222,Isla Christmas,CXR,6,Oceanía
+223,Islas Cocos (Keeling),CCK,6,Oceanía
+224,Islas Heard y McDonald,HMD,6,Oceanía
+225,Nueva Zelandia,NZL,6,Oceanía
+226,Isla Norfolk,NFK,6,Oceanía
+227,Fiji,FJI,6,Oceanía
+228,Nueva Caledonia,NCL,6,Oceanía
+229,Papua Nueva Guinea,PNG,6,Oceanía
+230,Islas Salomón,SLB,6,Oceanía
+231,Vanuatu,VUT,6,Oceanía
+232,Guam,GUM,6,Oceanía
+233,Kiribati,KIR,6,Oceanía
+234,Islas Marshall,MHL,6,Oceanía
+235,Micronesia (Estados Federados de),FSM,6,Oceanía
+236,Nauru,NRU,6,Oceanía
+237,Islas Marianas Septentrionales,MNP,6,Oceanía
+238,Palau,PLW,6,Oceanía
+239,Islas menores alejadas de Estados Unidos,UMI,6,Oceanía
+240,Samoa Americana,ASM,6,Oceanía
+241,Islas Cook,COK,6,Oceanía
+242,Polinesia Francesa,PYF,6,Oceanía
+243,Niue,NIU,6,Oceanía
+244,Pitcairn,PCN,6,Oceanía
+245,Samoa,WSM,6,Oceanía
+246,Tokelau,TKL,6,Oceanía
+247,Tonga,TON,6,Oceanía
+248,Tuvalu,TUV,6,Oceanía
+249,Islas Wallis y Futuna,WLF,6,Oceanía
